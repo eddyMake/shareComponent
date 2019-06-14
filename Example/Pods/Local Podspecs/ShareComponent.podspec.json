@@ -1,0 +1,22 @@
+{
+  "name": "ShareComponent",
+  "version": "0.1.0",
+  "summary": "A short description of ShareComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eddyMake/ShareComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eddyMake": "287638568@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/eddyMake/ShareComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShareComponent/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ShareComponent {
+  umbrella header "ShareComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

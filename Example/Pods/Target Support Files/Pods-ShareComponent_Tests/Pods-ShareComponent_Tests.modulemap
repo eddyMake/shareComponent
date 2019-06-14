@@ -1,0 +1,6 @@
+framework module Pods_ShareComponent_Tests {
+  umbrella header "Pods-ShareComponent_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
